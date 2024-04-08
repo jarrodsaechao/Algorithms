@@ -1,0 +1,1 @@
+User must decode the hidden message from the text file presented. The keys are found by the last index of the row.
